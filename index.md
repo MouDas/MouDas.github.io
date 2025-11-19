@@ -1,15 +1,19 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome to My Blog"
 ---
 
 # Welcome to My Blog!
 
-This blog will track my progress building a Meal Planner app.
+This blog tracks my progress building a **Meal Planner app**.
 
-- Suggests weekly lunch & dinner for a family of 4
-- Avoids repeating recipes from the last 2 weeks
-- Generates grocery lists and prep instructions
+Here you will find:
+
+- Daily updates on my project
+- Notes on Git, GitHub, and VS Code
+- Steps to build the Meal Planner app
+
+---
 
 ## Recent Posts
 
@@ -20,3 +24,8 @@ This blog will track my progress building a Meal Planner app.
     </li>
   {% endfor %}
 </ul>
+
+---
+
+Happy blogging! 📝
+
