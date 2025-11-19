@@ -1,0 +1,5 @@
+title: "My Blog"
+description: "Tracking my Meal Planner app progress"
+baseurl: ""        # leave blank for user.github.io
+url: "https://MouDas.github.io"
+theme: minima
